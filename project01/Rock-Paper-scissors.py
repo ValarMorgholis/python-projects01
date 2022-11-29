@@ -2,7 +2,7 @@ import random
 import time
 
 player1 = input(
-    "First player please choice your weapons (rock & papaer & scissors) : ")
+    "First player please choice your weapons (rock & papaer & scissors) : ").lower()
 
 computer = random.randint(0, 2)
 print("Computer is choice her weapon - - - - ")

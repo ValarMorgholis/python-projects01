@@ -1,4 +1,5 @@
-# python-projects
-Some random and easy python project, that i write to learn it. 
+## python-projects
 
-## A rock papaer scisson game that i write in python. 
+# Some random and easy python project, that i write to learn it. 
+
+# A rock papar scisson game that i write in python. 
